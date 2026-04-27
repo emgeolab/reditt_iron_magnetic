@@ -1,0 +1,22 @@
+# Ignore data files
+*.csv
+*.xyz
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore conda environments
+.conda/
+
+# Ignore log files
+*.log
